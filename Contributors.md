@@ -56,6 +56,7 @@
 - JamesBond 
 - Yashwanth Krishna
 - Ezad Haziq Bin Zamily
+- [Karthikeya Patnala](https://github.com/KarthikeyaPatnala12)
 - [Oyelowo Oyeleye Samuel](https://github.com/sammy-yuntin)
 - [Chintan Golakiya](https://github.com/chintan-golakiya)
 - [Neil Ohene](https://github.com/dvc-77)
